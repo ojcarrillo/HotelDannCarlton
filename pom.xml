@@ -5,8 +5,8 @@
 
 	<groupId>co.edu.javeriana.pica</groupId>
 	<artifactId>HotelDannCarlton</artifactId>
-	<version>0.0.</version>
-	<packaging>war</packaging>
+	<version>0.0.1</version>
+	<packaging>jar</packaging>
 
 	<name>HotelDannCarlton</name>
 	<description>Servicio Tercero Hotel Dann Carlton</description>
